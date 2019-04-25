@@ -1,0 +1,14 @@
+/.ipynb_checkpoints
+/data
+/etc
+/img
+/include
+/logs
+/Scripts
+/share
+/tmp
+/Lib
+*.json
+*cfg
+/Сверточная нейронная сеть habr_com_post426797.ipynb
+/
