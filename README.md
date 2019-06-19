@@ -7,5 +7,5 @@
 - [Лабораторная работа №3](https://github.com/Luzhevsky/machine_learning/tree/master/laba3) [(Отчет)](https://github.com/Luzhevsky/machine_learning/blob/master/laba3/Laba3ML.pdf)
 ## Рубежные контроли
 
-## Домашние задания
+## Домашнее задание
 При выполнение лабораторных работ опирался на репозиторий "[Artem Leshchev](https://github.com/matshch/iu5_ml_course)"
